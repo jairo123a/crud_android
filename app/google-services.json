@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303613120803",
+    "firebase_url": "https://cruduniminuto-default-rtdb.firebaseio.com",
+    "project_id": "cruduniminuto",
+    "storage_bucket": "cruduniminuto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303613120803:android:3d76f9b8032b2c10b47c96",
+        "android_client_info": {
+          "package_name": "com.example.gremlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303613120803-8qj1tcisrepi8ld2fnpifn8u6iunst0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gremlin",
+            "certificate_hash": "322c510f0363990f4d135e09d58cd5dcd4ad5dcd"
+          }
+        },
+        {
+          "client_id": "303613120803-jg61020g1mb8t3m1djuefavdp54aptcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyrAR4XkjDPz1bKeZvJ7UvzVbVn_w-OSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303613120803-jg61020g1mb8t3m1djuefavdp54aptcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
